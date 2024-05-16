@@ -28,6 +28,7 @@ let term_templates =
     ("tutorial", Tutorial.template);
     ("watch", Watch.template);
     ("workshops", Workshop.template);
+    ("youtube", Youtube.template);
   ]
 
 let cmds =
