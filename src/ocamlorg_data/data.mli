@@ -218,6 +218,7 @@ module Youtube : sig
     content : string;
     thumbnail : string;
     description : string;
+    published : string;
   }
 
   val all : t list
