@@ -239,7 +239,6 @@ module Tutorial = struct
 end
 
 module Video = Video
-module Watch = Watch
 
 module Workshop = struct
   include Workshop
